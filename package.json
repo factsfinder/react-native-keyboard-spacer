@@ -1,6 +1,6 @@
 {
   "name": "react-native-keyboard-spacer",
-  "version": "0.4.1",
+  "version": "0.4.5",
   "description": "Plug and play react-Native keyboard spacer view.",
   "main": "KeyboardSpacer.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Andr3wHur5t/react-native-keyboard-spacer.git"
+    "url": "git+https://github.com/factsfinder/react-native-keyboard-spacer.git"
   },
   "keywords": [
     "react-component",
@@ -20,7 +20,7 @@
   "author": "Andrew Hurst",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Andr3wHur5t/react-native-keyboard-spacer/issues"
+    "url": "https://github.com/factsfinder/react-native-keyboard-spacer/issues"
   },
-  "homepage": "https://github.com/Andr3wHur5t/react-native-keyboard-spacer#readme"
+  "homepage": "https://github.com/factsfinder/react-native-keyboard-spacer#readme"
 }
